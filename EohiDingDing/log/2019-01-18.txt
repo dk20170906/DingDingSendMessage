@@ -1,0 +1,2336 @@
+
+ 
+记录时间：2019-01-18 13:58:51,284 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 13:58:51,394 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 13:58:51,406 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 13:58:53,426 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 13:58:53,455 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 13:59:49,361 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 13:59:51,401 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:00:17,321 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:00:17,411 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:00:17,411 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:00:55,666 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:00:55,717 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:00:55,755 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:00:55,756 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:00:56,052 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:00:56,195 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:02:19,260 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:02:19,263 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912,1530560410843347;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:02:19,264 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:02:19,264 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:02:19,323 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:02:19,499 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:04:06,021 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:04:07,460 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:System.Collections.Generic.List`1[System.Int64];AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:04:41,023 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:04:42,538 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:04:42,816 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:06:30,444 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:06:30,489 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:141335674320277297;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:06:30,506 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："yuzy?????"
+ 
+
+ 
+记录时间：2019-01-18 14:06:30,507 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:06:30,777 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:06:30,920 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:07:56,155 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:07:56,199 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:07:56,215 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："yuzj????"
+ 
+
+ 
+记录时间：2019-01-18 14:07:56,216 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:07:56,526 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:07:56,677 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:10:34,225 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:10:34,248 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:1530560410843347;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:10:34,268 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:10:34,269 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:10:34,526 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:10:34,708 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:11:06,947 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:11:08,160 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:1530560410843347;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:11:15,855 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:11:17,958 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:11:18,015 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:13:14,436 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:13:19,169 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:13:19,169 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:1530560410843347;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:13:19,169 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:13:19,170 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:13:19,376 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:13:19,518 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:16:35,203 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:16:35,205 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:1530560410843347;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:16:35,205 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:16:35,205 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:16:35,420 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:16:35,569 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:16:53,006 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:16:53,899 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:1530560410843347;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:17:01,724 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:17:03,319 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:17:03,368 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:19:09,246 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:19:09,288 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912";AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:19:09,304 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:19:10,645 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:19:10,947 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:19:21,668 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:21:09,893 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:21:09,991 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:1530560410843347;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:21:10,029 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:21:12,481 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:21:12,804 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:22:05,490 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:22:05,538 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:22:05,539 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912";AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:22:05,539 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:22:07,190 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:22:07,250 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:22:12,733 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:22:42,635 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:22:42,635 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912";AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:22:42,635 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:22:44,491 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:22:44,602 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:22:52,321 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:26:21,831 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:26:21,878 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"1530560410843347";AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:26:21,905 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321"
+ 
+
+ 
+记录时间：2019-01-18 14:26:23,796 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:26:24,134 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:26:29,929 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:26:45,873 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:26:45,874 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912";AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 14:26:45,874 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321"
+ 
+
+ 
+记录时间：2019-01-18 14:26:47,443 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:26:47,518 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:26:58,601 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:38:49,299 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:38:49,343 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912";AgentId:100158997;ToAllUser:True
+ 
+
+ 
+记录时间：2019-01-18 14:38:49,363 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 14:38:50,986 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:38:51,259 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:38:58,902 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:39:08,945 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:39:08,945 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912";AgentId:100158997;ToAllUser:True
+ 
+
+ 
+记录时间：2019-01-18 14:39:08,946 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："132"
+ 
+
+ 
+记录时间：2019-01-18 14:39:11,596 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:39:11,646 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:39:34,060 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:39:47,296 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:39:47,296 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912";AgentId:100158997;ToAllUser:True
+ 
+
+ 
+记录时间：2019-01-18 14:39:47,297 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1324"
+ 
+
+ 
+记录时间：2019-01-18 14:39:48,579 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:39:48,707 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:39:48,829 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 14:40:30,626 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 14:40:30,628 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912";AgentId:100158997;ToAllUser:True
+ 
+
+ 
+记录时间：2019-01-18 14:40:30,628 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："13245"
+ 
+
+ 
+记录时间：2019-01-18 14:40:31,515 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 14:40:31,572 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 14:40:31,708 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 15:17:37,209 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 15:17:37,245 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:;AgentId:100158997;ToAllUser:True
+ 
+
+ 
+记录时间：2019-01-18 15:17:37,312 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 15:17:48,343 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:17:48,696 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:17:48,844 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 15:18:11,271 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:18:11,327 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:19:05,969 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:19:06,029 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:20:12,116 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:20:12,175 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:24:08,255 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 15:24:11,004 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:24:11,029 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912";AgentId:100158997;ToAllUser:True
+ 
+
+ 
+记录时间：2019-01-18 15:24:11,046 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 15:24:15,390 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:24:15,782 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:24:15,782 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:24:36,827 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 15:30:46,989 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:30:47,359 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:31:35,406 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:31:35,470 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:32:24,521 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:32:24,596 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:32:35,031 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:32:35,116 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:34:27,838 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:34:28,036 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:34:39,540 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:34:39,591 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:37:38,701 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:37:38,893 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:39:54,237 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:39:54,464 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:45:38,821 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 15:45:38,868 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:[113650931838912,113650931838912,133769523037797847];AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 15:45:38,906 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 15:45:38,907 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:45:39,349 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:45:39,507 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 15:46:01,781 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 15:46:01,781 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:[113650931838912,113650931838912,133769523037797847];AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 15:46:01,781 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 15:46:03,585 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:46:03,698 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:49:27,696 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 15:50:55,326 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:50:55,624 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:51:14,328 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 15:51:14,335 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912,0113650931838912,133769523037797847;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 15:51:14,359 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 15:51:16,095 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:51:16,173 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:51:25,783 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 15:51:57,135 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 15:51:57,135 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912,0113650931838912,133769523037797847;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 15:51:57,136 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 15:52:00,232 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:52:00,294 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:52:00,421 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 15:52:10,743 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 15:52:10,744 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912,0113650931838912,133769523037797847;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 15:52:10,744 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："132dfsd54"
+ 
+
+ 
+记录时间：2019-01-18 15:52:12,127 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:52:12,179 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:52:12,319 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 15:53:05,063 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 15:53:05,064 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912,0113650931838912,133769523037797847;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 15:53:05,064 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："147852"
+ 
+
+ 
+记录时间：2019-01-18 15:53:06,839 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:53:06,890 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:53:07,021 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 15:54:25,440 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 15:54:25,492 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912,1530560410843347,133769523037797847;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 15:54:25,510 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 15:54:27,230 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:54:27,575 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:54:27,730 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 15:54:35,821 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 15:54:35,822 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912,1530560410843347,133769523037797847;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 15:54:35,822 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："111"
+ 
+
+ 
+记录时间：2019-01-18 15:54:37,158 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 15:54:37,214 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 15:54:37,364 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:06:31,107 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:06:31,171 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912,1530560410843347,133769523037797847";AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:06:31,206 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654654"
+ 
+
+ 
+记录时间：2019-01-18 16:06:34,191 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:06:34,510 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:06:41,371 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:06:53,366 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:06:53,366 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912,1530560410843347,133769523037797847";AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:06:53,367 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："222"
+ 
+
+ 
+记录时间：2019-01-18 16:06:54,804 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:06:54,863 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:07:06,036 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:08:27,368 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:08:27,419 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:08:27,438 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654"
+ 
+
+ 
+记录时间：2019-01-18 16:08:29,351 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:08:29,651 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:08:39,221 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:09:46,127 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:09:46,128 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912";AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:09:46,129 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："13"
+ 
+
+ 
+记录时间：2019-01-18 16:09:47,568 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:09:47,633 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:09:59,038 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:11:11,899 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:11:11,900 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912,1530560410843347";AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:11:11,900 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："135454sdfsad"
+ 
+
+ 
+记录时间：2019-01-18 16:11:14,345 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:11:14,407 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:11:47,852 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:13:25,812 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:13:25,859 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"133769523037797847,0113650931838912,wangzhihao";AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:13:25,888 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息：145214
+ 
+
+ 
+记录时间：2019-01-18 16:13:26,834 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:13:27,135 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:13:33,694 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:14:39,199 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:14:39,243 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912,1530560410843347,133769523037797847;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:14:39,261 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654"
+ 
+
+ 
+记录时间：2019-01-18 16:14:41,559 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:14:41,816 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:14:41,948 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:15:03,617 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:15:03,618 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912,1530560410843347,133769523037797847;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:15:03,618 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："134f54"
+ 
+
+ 
+记录时间：2019-01-18 16:15:05,267 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:15:05,314 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:15:05,442 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:20:21,359 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:20:21,382 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:20:21,400 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："1321654"
+ 
+
+ 
+记录时间：2019-01-18 16:20:23,800 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:20:24,090 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:20:29,793 
+线程ID:[5] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:23:04,489 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:23:04,515 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912";AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:23:04,532 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："ffff"
+ 
+
+ 
+记录时间：2019-01-18 16:23:17,416 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:23:17,713 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:23:23,198 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:25:06,293 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:25:06,314 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:"0113650931838912,1530560410843347";AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:25:06,314 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："ffff"
+ 
+
+ 
+记录时间：2019-01-18 16:25:07,841 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:25:17,616 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:25:17,616 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912,1530560410843347;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:25:17,617 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："ffff"
+ 
+
+ 
+记录时间：2019-01-18 16:25:19,349 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:25:19,489 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:25:19,511 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:25:19,624 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:25:37,508 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 
+
+ 
+记录时间：2019-01-18 16:26:01,202 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送工作消息
+ 
+
+ 
+记录时间：2019-01-18 16:26:01,203 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：UseridList:0113650931838912,1530560410843347;AgentId:100158997;ToAllUser:False
+ 
+
+ 
+记录时间：2019-01-18 16:26:01,204 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：发送Text消息："ffffa"
+ 
+
+ 
+记录时间：2019-01-18 16:26:02,881 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：通过Appkey:ding2934d04ec35dc64d35c2f4657eb6378f,AppsecretYMMw6nM2OiTnZY-AHl3gzwcn_CCkP71iH0FZCMQfNwrm_G4s4e9OjThSQwFZnifO获取Access_Token
+ 
+
+ 
+记录时间：2019-01-18 16:26:02,928 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：AccessToken:139211ace8c134238bcf044e38dd3cf8
+ 
+
+ 
+记录时间：2019-01-18 16:26:43,616 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：程序运行信息 property: [(null)] - 
+错误描述：请求完成DingTalk.Api.Response.OapiMessageCorpconversationAsyncsendV2Response
+ 

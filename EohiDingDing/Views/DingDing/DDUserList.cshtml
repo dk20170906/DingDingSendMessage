@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "DDUserList";
+}
+
+<h2>DDUserList</h2>
+@section Scripts{
+<script>
+    $.ready(function () {
+        DingTalkPC.ready(function () {
+            dd.runtime.permission.requestAuthCode({
+                corpId: @ViewBag.AppKey,
+                onSuccess: function (result) {
+                    alert(result);
+                    /*{
+                        code: 'hYLK98jkf0m' //string authCode
+                    }*/
+                },
+                onFail: function (err) { }
+
+            });
+        });
+
+
+
+    })
+
+
+    </script>
+    
+
+}
+
